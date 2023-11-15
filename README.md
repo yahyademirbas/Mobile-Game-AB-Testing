@@ -657,13 +657,3 @@ The likelihood of observing a higher 1-day retention when the gate is at level 3
 As per the bootstrap analysis, there exists compelling evidence, accounting for 99.97% certainty, that 7-day retention tends to be higher when the gate is positioned at level 30 compared to level 40.
 
 In summary, the inference drawn from these findings suggests that for maintaining high retention rates, both for 1-day and 7-day spans, it would be advisable to retain the gate at level 30 rather than shifting it to level 40. It's worth noting that while other metrics such as the quantity of game rounds played or the in-game purchase amounts of the two AB-groups may be considered, retention remains a pivotal metric.
-
-
-```python
-
-```
-
-
-```python
-
-```
